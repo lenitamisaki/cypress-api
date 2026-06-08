@@ -1,0 +1,11 @@
+{
+    "firstname": "Le",
+    "lastname": "Misaki",
+    "totalprice": 125,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-07-11",
+        "checkout": "2026-01-01"
+    },
+    "additionalneeds": "breakfast and dinner"
+}
